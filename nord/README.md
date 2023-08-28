@@ -1,1 +1,1 @@
-Hereis where I keep wallpapers designed for the Nord color scheme
+Here is where I keep wallpapers designed for the Nord color scheme
