@@ -15,5 +15,5 @@ Feel free to browse through my collection and find the perfect wallpaper to matc
 - [ ] 🔄 Rearrange the repository with a better naming convention for seamless navigation.
 - [ ] 📥 Fetch even more wallpapers from talented creators.
 - [ ] 🖼️ Optimize more wallpapers using OptiPNG and Curtail to ensure a silky-smooth user experience.
-
+****
 I hope you enjoy my selection of wallpapers and find one (or several) that you love. Don't forget to check back every so often, as I'll be adding new ones regularly! 🔜🚀
