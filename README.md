@@ -7,5 +7,12 @@ These wallpapers are sourced from various talented YouTubers such as Distrotube,
 What sets these wallpapers apart is that many of them have been optimized using OptiPNG and Curtail. This means that not only do they look great, but they'll also consume less storage space and load faster on your device. Enjoy a smoother and more seamless experience while admiring the beauty of these wallpapers. 💻
 
 Feel free to browse through my collection and find the perfect wallpaper to match your style and mood. These wallpapers come in various resolutions, so no matter what device you're using, you can enjoy a stunning background that will make your screen stand out. 📱🖥️
+****
+### 📋 To-Do List
+
+- ✅ Kickstart the repo, even if it currently stinks.
+- 🔄 Rearrange the repository with a better naming convention for seamless navigation.
+- 📥 Fetch even more wallpapers from talented creators.
+- 🖼️ Optimize more wallpapers using OptiPNG and Curtail to ensure a silky-smooth user experience.
 
 I hope you enjoy my selection of wallpapers and find one (or several) that you love. Don't forget to check back every so often, as I'll be adding new ones regularly! 🔜🚀
