@@ -10,10 +10,10 @@ Browse this collection & find your next wallpaper! 📱
 ****
 ### 📋 To-Do List
 
-- [x] ✅ Kickstart the repo, even if it currently stinks.
+- [x] ✅ Kickstart the repo, even if it currently stinks
 - [x] 😎 Write a self-indulgent readme file
-- [x] 📥 Fetch even more wallpapers from talented creators.
-- [x] 🖼️ Optimize more wallpapers using OptiPNG and Curtail to ensure a silky-smooth user experience.
+- [x] 📥 Fetch even more wallpapers
+- [x] 🖼️ Optimize wallpapers using [OxiPNG](https://github.com/shssoichiro/oxipng) and [Curtail](https://github.com/Huluti/Curtail) to ensure a silky-smooth user experience.
 - [ ] 🔄 Rearrange the repository with a better naming convention for seamless navigation.
 ****
 
