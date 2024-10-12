@@ -15,7 +15,3 @@ Browse this collection & find your next wallpaper! 📱
 - [x] 📥 Fetch even more wallpapers
 - [x] 🖼️ Optimize wallpapers using [OxiPNG](https://github.com/shssoichiro/oxipng) and [Curtail](https://github.com/Huluti/Curtail) to ensure a silky-smooth user experience.
 - [ ] 🔄 Rearrange the repository with a better naming convention for seamless navigation.
-****
-
-### Disclaimer
-I went through and deleted any obviously copyrighted material (plus anything that I just didn't like). Please feel free to contact me if you find something that I missed and I will remove at upon request. 🗑️
