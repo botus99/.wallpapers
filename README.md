@@ -1,6 +1,6 @@
 # .wallpapers
 
-These wallpapers are not organized very well (eh, I'll get there someday). They are sourced from talented YouTubers such as Distrotube, Brodie, and others. Various subreddits were used. Some are from popular desktop environments like Gnome and XFCE. This collection has something for everyone. 🃏
+These wallpapers are not organized very well (eh, I'll get there someday). They are sourced from talented YouTubers such as Distrotube, Brodie, and others. Various subreddits were pilfered using [wppfzf](https://github.com/channel-42/wppfzf). Some are from popular desktop environments like Gnome and XFCE. This collection has something for everyone. 🃏
 
 Note the large collection of gruvbox (my preferred color scheme) wallpapers in the color-scheme folder. It includes many custom made wallpapers created with [Image-Go-Nord](https://ign.schroedinger-hat.org/), [gruvbox_factory](https://github.com/paulopacitti/gruvbox-factory), [xnconvert](https://www.xnview.com/en/xnconvert/), or [GIMP](https://www.gimp.org/). 🎨
 
