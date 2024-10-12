@@ -1,14 +1,14 @@
 # .wallpapers
 
-These wallpapers are not organized very well (eh, I'll get there someday). They are sourced from various talented YouTubers such as Distrotube, Brodie, and others, as well as various subreddits. I've also included some from popular desktop environments like Gnome and XFCE. This collection has something for everyone. 🃏
+These wallpapers are not organized very well (eh, I'll get there someday). They are sourced from talented YouTubers such as Distrotube, Brodie, and others. Various subreddits were used. Some are from popular desktop environments like Gnome and XFCE. This collection has something for everyone. 🃏
 
-Note the large collection of gruvbox (my preferred color scheme) wallpapers in the color-scheme folder. It includes many custom made wallpapers created with [Image-Go-Nord](https://ign.schroedinger-hat.org/). 🎨
+Note the large collection of gruvbox (my preferred color scheme) wallpapers in the color-scheme folder. It includes many custom made wallpapers created with [Image-Go-Nord](https://ign.schroedinger-hat.org/), [gruvbox_factory](https://github.com/paulopacitti/gruvbox-factory), [xnconvert](https://www.xnview.com/en/xnconvert/), or [GIMP](https://www.gimp.org/). 🎨
 
 I went through and deleted any obviously copyrighted material (plus anything that I didn't like). Please feel free to contact me if you find something that I missed and I will remove at upon request. 🗑️
 
 What sets these wallpapers apart is that many of them have been optimized using OptiPNG and Curtail. This means that not only do they look great, but they'll also consume less storage space and load faster on your device. Enjoy a snappy experience while browsing these wallpapers. 💻
 
-Browse through this collection and find the perfect wallpaper to match your style and mood. 📱
+Browse this collection & find your next wallpaper! 📱
 ****
 ### 📋 To-Do List
 
