@@ -19,6 +19,11 @@ mv .wallpapers /usr/share/backgrounds
 git clone https://github.com/botus99/.wallpapers
 ln -s .wallpapers /usr/share/backgrounds
 ```
+#### or, you can simply...
+```
+cd /usr/share/backgrounds
+git clone https://github.com/botus99/.wallpapers
+```
 
 ## Got these wallpapers where you want them now? Good!
 Now, start using them! Seriously... go! That's all folks!
