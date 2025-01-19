@@ -6,6 +6,12 @@ Note the large collection of gruvbox (my preferred color scheme) wallpapers in t
 
 [OxiPNG](https://github.com/shssoichiro/oxipng) and [Curtail](https://github.com/Huluti/Curtail) are used in this collection to minimize file sizes losslessly. Enjoy a snappy experience while browsing to find your next wallpaper! 📱💻 
 
+You may want to move or link this repo to your /usr/share/backgrounds folder to give access to your entire system.
+```
+git clone https://github.com/botus99/.wallpapers
+ln -s .wallpapers /usr/share/backgrounds
+```
+
 ****
 ### 📋 To-Do List
 
