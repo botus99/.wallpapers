@@ -13,18 +13,18 @@ You may want to move or link this repo to your `/usr/share/backgrounds` folder t
 
 #### Move / Install
 ```
-git clone https://github.com/botus99/.wallpapers
+git clone https://github.com/botus99/.wallpapers --depth=1
 mv .wallpapers /usr/share/backgrounds
 ```
 #### Link
 ```
-git clone https://github.com/botus99/.wallpapers
+git clone https://github.com/botus99/.wallpapers --depth=1
 ln -s .wallpapers /usr/share/backgrounds
 ```
 #### or, you can simply...
 ```
 cd /usr/share/backgrounds
-git clone https://github.com/botus99/.wallpapers
+git clone https://github.com/botus99/.wallpapers --depth=1
 ```
 
 ## Got these wallpapers where you want them now? Good!
